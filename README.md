@@ -6,5 +6,5 @@ Features:
 
 Loadstring:
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/expected-ingot/te.speed/main/gui.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/expected-ingot/te.speed/main/main.lua"))()
 ```
